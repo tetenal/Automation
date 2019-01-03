@@ -1,0 +1,14 @@
+C:\Users\Tetenal\Documents\Automation\Tests\obj\Debug\netcoreapp2.2\Tests.csprojAssemblyReference.cache
+C:\Users\Tetenal\Documents\Automation\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tetenal\Documents\Automation\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+C:\Users\Tetenal\Documents\Automation\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfo.cs
+C:\Users\Tetenal\Documents\Automation\Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Tetenal\Documents\Automation\Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Tetenal\Documents\Automation\Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Tetenal\Documents\Automation\Tests\bin\Debug\netcoreapp2.2\Tests.deps.json
+C:\Users\Tetenal\Documents\Automation\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.json
+C:\Users\Tetenal\Documents\Automation\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.dev.json
+C:\Users\Tetenal\Documents\Automation\Tests\bin\Debug\netcoreapp2.2\Tests.dll
+C:\Users\Tetenal\Documents\Automation\Tests\bin\Debug\netcoreapp2.2\Tests.pdb
+C:\Users\Tetenal\Documents\Automation\Tests\obj\Debug\netcoreapp2.2\Tests.dll
+C:\Users\Tetenal\Documents\Automation\Tests\obj\Debug\netcoreapp2.2\Tests.pdb
